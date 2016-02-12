@@ -5,7 +5,7 @@ public class Hairetu_test {
 	public static void main(String[] args) {
 		// 初期設定
 		String[][] Othello = new String[8][8];
-		int[][] O_processing = new int[8][8];
+//		int[][] O_processing = new int[8][8];
 		String BLACK = "●", WHITE = "○", Put = "*";
 		int black=2,white=2,mass=60;
 		// 初期設定ー空マス設定
